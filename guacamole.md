@@ -4,4 +4,5 @@
 *lime (0.64)
 *salt (2)
 ## Instructions
-* peel the avocados
+<<<<<<< HEAD
+* peel the avocados and put one avavado into a bowl.
